@@ -23,3 +23,6 @@ public class practice{
 }
 
 //To find the sum of a number using which is sum of two prime numbers...(using java)
+
+// INPUT : 1024
+// OUTPUT : 3 1021
